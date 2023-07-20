@@ -8,6 +8,6 @@ int main(int argc, char *argv[])
     w.show();
     qInfo()<<1;
     qInfo()<<2;
-    qInfo()<<3;
+    qInfo()<<4;
     return a.exec();
 }
