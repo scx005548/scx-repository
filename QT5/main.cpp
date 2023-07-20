@@ -7,5 +7,6 @@ int main(int argc, char *argv[])
     Widget w;
     w.show();
     qInfo()<<1;
+    qInfo()<<2;
     return a.exec();
 }
